@@ -1,0 +1,9 @@
+C:\Users\Kamran\source\repos\SoftAnswer\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Kamran\source\repos\SoftAnswer\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Kamran\source\repos\SoftAnswer\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Kamran\source\repos\SoftAnswer\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\Kamran\source\repos\SoftAnswer\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Kamran\source\repos\SoftAnswer\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Kamran\source\repos\SoftAnswer\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Kamran\source\repos\SoftAnswer\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Kamran\source\repos\SoftAnswer\Core\obj\Debug\netcoreapp3.1\Core.pdb

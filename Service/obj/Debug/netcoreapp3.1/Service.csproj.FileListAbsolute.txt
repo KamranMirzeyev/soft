@@ -1,0 +1,14 @@
+C:\Users\Kamran\source\repos\SoftAnswer\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Kamran\source\repos\SoftAnswer\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Kamran\source\repos\SoftAnswer\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Kamran\source\repos\SoftAnswer\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Users\Kamran\source\repos\SoftAnswer\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Kamran\source\repos\SoftAnswer\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Kamran\source\repos\SoftAnswer\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Kamran\source\repos\SoftAnswer\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Kamran\source\repos\SoftAnswer\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Kamran\source\repos\SoftAnswer\Service\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Kamran\source\repos\SoftAnswer\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Kamran\source\repos\SoftAnswer\Service\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Kamran\source\repos\SoftAnswer\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Kamran\source\repos\SoftAnswer\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
